@@ -1,7 +1,7 @@
 # Eng_D22_Stackablegearbox775
 
 
-Summary: this is a repository for a video(link of this video ) on how to make and  use a modified 775 Dc stackable gearbox based of Let's Print channel gearbox (link is here https://youtu.be/McfVmBNaNuA?si=fZCQcwTnj12nb7Ln) Modified for projects with the openrobotics platform(more info https://openroboticplatform.com/) in mind.
+Summary: this is a repository for a video(link of this video: https://youtu.be/x_mgAz2CGus ) on how to make and  use a modified 775 Dc stackable gearbox based of Let's Print channel gearbox (link is here https://youtu.be/McfVmBNaNuA?si=fZCQcwTnj12nb7Ln) Modified for projects with the openrobotics platform(more info https://openroboticplatform.com/) in mind.
 
 !Warning
 The process of making this made it very diffirent from the original gearbox thus the method and skills and materials differ,
